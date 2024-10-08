@@ -16,6 +16,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+```
 #Developed by: 
 #RegisterNumber:24900303
 import numpy as np
@@ -31,10 +32,9 @@ solution = np.linalg.solve(A, B)
 x, y = solution
 print(f"[-34.  13.]")
 
-
+```
 ## Output:
-![Exp -01-CR- Solving System of linear equations_ Attempt review _ SEC - Google Chrome 14-09-2024 10_39_16](https://github.com/user-attachments/assets/3ddbcaf7-36cd-45a8-b004-4288d55b6c14)
-
+![Screenshot 2024-10-08 101746](https://github.com/user-attachments/assets/5f736283-087d-43be-8a0c-23a8b8d80aeb)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
