@@ -17,8 +17,8 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
-#Developed by: RUDESH KANNA R
-#RegisterNumber:24900303
+#Developed by: AANKARSH
+#RegisterNumber: 22304386
 import numpy as np
 
 
