@@ -17,8 +17,8 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
-#Developed by: RUDESH KANNA R
-#RegisterNumber:24900303
+#Developed by: AANKARSH
+#RegisterNumber: 22304386
 import numpy as np
 
 
@@ -34,7 +34,8 @@ print(f"[-34.  13.]")
 
 ```
 ## Output:
-![Screenshot 2024-10-08 101746](https://github.com/user-attachments/assets/5f736283-087d-43be-8a0c-23a8b8d80aeb)
+
+![Screenshot 2024-11-22 142522](https://github.com/user-attachments/assets/d37e6835-eab2-47de-8127-eadde731444e)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
